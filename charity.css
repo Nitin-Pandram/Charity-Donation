@@ -1,0 +1,42 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+html, body{
+height: 100%;
+width: 100%;
+
+}
+
+.main{
+background-image: url(./photo-1488521787991-ed7bbaae773c.avif);
+height: 100%;
+width: 100%;
+}
+
+.font{
+    padding-top: 50px;
+color: white;
+text-align: center;
+font-family: cursive;
+
+}
+
+.font2 button{
+border: 2px solid black;
+padding: 20px 40px;
+background-color: white;
+color: red;
+font-size: 30px;
+border-radius: 9px;
+
+
+}
+
+button:hover{
+color: blue;
+
+}
